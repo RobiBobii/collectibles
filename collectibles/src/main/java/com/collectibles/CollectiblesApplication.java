@@ -1,4 +1,4 @@
-package com.crud.collectibles;
+package com.collectibles;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
